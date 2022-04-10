@@ -1,7 +1,7 @@
 <%@ page language="java" contentType="text/html" %>
 <html>
 <head>
-<title>Monitoring date</title>
+<title>Monitoring date website</title>
 </head>
 <body bgcolor="grey">
 <center>
